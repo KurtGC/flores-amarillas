@@ -1,0 +1,44 @@
+- generic [active] [ref=f1e1]:
+  - button "Abrir el regalo de Kurt" [ref=f1e3] [cursor=pointer]
+  - generic: Tal vez no sean reales, pero no te quedas sin tus flores amarillas. Te amo mi Amorcito
+  - generic:
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
+    - generic:
+      - img "heart22"
